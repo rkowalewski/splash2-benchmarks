@@ -1,0 +1,729 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/31d7570/
+A	util.C	/^local long A = 1;$/;"	v	language:C++	typeref:typename:EXTERN_ENV local long
+A	util.c	/^local long A = 1;$/;"	v	language:C	typeref:typename:local long
+ABS	stdinc.H	/^#define   ABS(/;"	d	language:C++
+ABS	stdinc.h	/^#define   ABS(/;"	d	language:C++
+ABSV	vectmath.H	/^#define ABSV(/;"	d	language:C++
+ABSV	vectmath.h	/^#define ABSV(/;"	d	language:C++
+ADD	util.C	/^#define ADD /;"	d	language:C++	file:
+ADD	util.c	/^#define ADD /;"	d	language:C	file:
+ADDM	vectmath.H	/^#define ADDM(/;"	d	language:C++
+ADDM	vectmath.h	/^#define ADDM(/;"	d	language:C++
+ADDV	vectmath.H	/^#define ADDV(/;"	d	language:C++
+ADDV	vectmath.h	/^#define ADDV(/;"	d	language:C++
+ADDVS	vectmath.H	/^#define ADDVS(/;"	d	language:C++
+ADDVS	vectmath.h	/^#define ADDVS(/;"	d	language:C++
+ANLinit	code.C	/^void ANLinit()$/;"	f	language:C++	typeref:typename:void
+ANLinit	code.c	/^void ANLinit()$/;"	f	language:C	typeref:typename:void
+Acc	defs.H	/^#define Acc(/;"	d	language:C++
+Acc	defs.h	/^#define Acc(/;"	d	language:C++
+B	util.C	/^local long B = 0;$/;"	v	language:C++	typeref:typename:local long
+B	util.c	/^local long B = 0;$/;"	v	language:C	typeref:typename:local long
+BDA_FDC	code.C	/^#define BDA_FDC /;"	d	language:C++	file:
+BDA_FDC	code.c	/^#define BDA_FDC /;"	d	language:C	file:
+BDA_FLA	code.C	/^#define BDA_FLA /;"	d	language:C++	file:
+BDA_FLA	code.c	/^#define BDA_FLA /;"	d	language:C	file:
+BDC_FDA	code.C	/^#define BDC_FDA /;"	d	language:C++	file:
+BDC_FDA	code.c	/^#define BDC_FDA /;"	d	language:C	file:
+BDC_FRC	code.C	/^#define BDC_FRC /;"	d	language:C++	file:
+BDC_FRC	code.c	/^#define BDC_FRC /;"	d	language:C	file:
+BLA_FLC	code.C	/^#define BLA_FLC /;"	d	language:C++	file:
+BLA_FLC	code.c	/^#define BLA_FLC /;"	d	language:C	file:
+BLA_FUA	code.C	/^#define BLA_FUA /;"	d	language:C++	file:
+BLA_FUA	code.c	/^#define BLA_FUA /;"	d	language:C	file:
+BLC_FDC	code.C	/^#define BLC_FDC /;"	d	language:C++	file:
+BLC_FDC	code.c	/^#define BLC_FDC /;"	d	language:C	file:
+BLC_FLA	code.C	/^#define BLC_FLA /;"	d	language:C++	file:
+BLC_FLA	code.c	/^#define BLC_FLA /;"	d	language:C	file:
+BODY	defs.H	/^#define BODY /;"	d	language:C++
+BODY	defs.h	/^#define BODY /;"	d	language:C++
+BRA_FDA	code.C	/^#define BRA_FDA /;"	d	language:C++	file:
+BRA_FDA	code.c	/^#define BRA_FDA /;"	d	language:C	file:
+BRA_FRC	code.C	/^#define BRA_FRC /;"	d	language:C++	file:
+BRA_FRC	code.c	/^#define BRA_FRC /;"	d	language:C	file:
+BRC_FRA	code.C	/^#define BRC_FRA /;"	d	language:C++	file:
+BRC_FRA	code.c	/^#define BRC_FRA /;"	d	language:C	file:
+BRC_FUC	code.C	/^#define BRC_FUC /;"	d	language:C++	file:
+BRC_FUC	code.c	/^#define BRC_FUC /;"	d	language:C	file:
+BUA_FRA	code.C	/^#define BUA_FRA /;"	d	language:C++	file:
+BUA_FRA	code.c	/^#define BUA_FRA /;"	d	language:C	file:
+BUA_FUC	code.C	/^#define BUA_FUC /;"	d	language:C++	file:
+BUA_FUC	code.c	/^#define BUA_FUC /;"	d	language:C	file:
+BUC_FLC	code.C	/^#define BUC_FLC /;"	d	language:C++	file:
+BUC_FLC	code.c	/^#define BUC_FLC /;"	d	language:C	file:
+BUC_FUA	code.C	/^#define BUC_FUA /;"	d	language:C++	file:
+BUC_FUA	code.c	/^#define BUC_FUA /;"	d	language:C	file:
+Bodyp	defs.H	/^#define Bodyp(/;"	d	language:C++
+Bodyp	defs.h	/^#define Bodyp(/;"	d	language:C++
+CELL	defs.H	/^#define CELL /;"	d	language:C++
+CELL	defs.h	/^#define CELL /;"	d	language:C++
+CLRM	vectmath.H	/^#define CLRM(/;"	d	language:C++
+CLRM	vectmath.h	/^#define CLRM(/;"	d	language:C++
+CLRV	vectmath.H	/^#define CLRV(/;"	d	language:C++
+CLRV	vectmath.h	/^#define CLRV(/;"	d	language:C++
+CROSSVP	vectmath.H	/^#define CROSSVP(/;"	d	language:C++
+CROSSVP	vectmath.h	/^#define CROSSVP(/;"	d	language:C++
+CellLock	code.H	/^} *CellLock;$/;"	v	language:C++	typeref:struct:CellLockType *
+CellLock	code.h	/^} *CellLock;$/;"	v	language:C++	typeref:struct:CellLockType *
+CellLockType	code.H	/^global struct CellLockType {$/;"	s	language:C++
+CellLockType	code.h	/^global struct CellLockType {$/;"	s	language:C++
+ChildNum	defs.H	/^#define ChildNum(/;"	d	language:C++
+ChildNum	defs.h	/^#define ChildNum(/;"	d	language:C++
+Child_Sequence	code.C	/^static long Child_Sequence[NUM_DIRECTIONS][NSUB] =$/;"	v	language:C++	typeref:typename:long[][]	file:
+Child_Sequence	code.c	/^static long Child_Sequence[NUM_DIRECTIONS][NSUB] =$/;"	v	language:C	typeref:typename:long[][]	file:
+ComputeForces	code.C	/^void ComputeForces(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+ComputeForces	code.c	/^void ComputeForces(long ProcessId)$/;"	f	language:C	typeref:typename:void
+Cost	defs.H	/^#define Cost(/;"	d	language:C++
+Cost	defs.h	/^#define Cost(/;"	d	language:C++
+Current_Root	code.H	/^   nodeptr Current_Root;$/;"	m	language:C++	struct:local_memory	typeref:typename:nodeptr
+Current_Root	code.h	/^   nodeptr Current_Root;$/;"	m	language:C++	struct:local_memory	typeref:typename:nodeptr
+DISTV	vectmath.H	/^#define DISTV(/;"	d	language:C++
+DISTV	vectmath.h	/^#define DISTV(/;"	d	language:C++
+DIVMS	vectmath.H	/^#define DIVMS(/;"	d	language:C++
+DIVMS	vectmath.h	/^#define DIVMS(/;"	d	language:C++
+DIVVS	vectmath.H	/^#define DIVVS(/;"	d	language:C++
+DIVVS	vectmath.h	/^#define DIVVS(/;"	d	language:C++
+DOTVP	vectmath.H	/^#define DOTVP(/;"	d	language:C++
+DOTVP	vectmath.h	/^#define DOTVP(/;"	d	language:C++
+Direction_Sequence	code.C	/^static long Direction_Sequence[NUM_DIRECTIONS][NSUB] =$/;"	v	language:C++	typeref:typename:long[][]	file:
+Direction_Sequence	code.c	/^static long Direction_Sequence[NUM_DIRECTIONS][NSUB] =$/;"	v	language:C	typeref:typename:long[][]	file:
+Done	defs.H	/^#define Done(/;"	d	language:C++
+Done	defs.h	/^#define Done(/;"	d	language:C++
+FALSE	stdinc.H	/^#define FALSE /;"	d	language:C++
+FALSE	stdinc.h	/^#define FALSE /;"	d	language:C++
+FDA_BDC	code.C	/^#define FDA_BDC /;"	d	language:C++	file:
+FDA_BDC	code.c	/^#define FDA_BDC /;"	d	language:C	file:
+FDA_BLA	code.C	/^#define FDA_BLA /;"	d	language:C++	file:
+FDA_BLA	code.c	/^#define FDA_BLA /;"	d	language:C	file:
+FDC_BDA	code.C	/^#define FDC_BDA /;"	d	language:C++	file:
+FDC_BDA	code.c	/^#define FDC_BDA /;"	d	language:C	file:
+FDC_BRC	code.C	/^#define FDC_BRC /;"	d	language:C++	file:
+FDC_BRC	code.c	/^#define FDC_BRC /;"	d	language:C	file:
+FLA_BLC	code.C	/^#define FLA_BLC /;"	d	language:C++	file:
+FLA_BLC	code.c	/^#define FLA_BLC /;"	d	language:C	file:
+FLA_BUA	code.C	/^#define FLA_BUA /;"	d	language:C++	file:
+FLA_BUA	code.c	/^#define FLA_BUA /;"	d	language:C	file:
+FLC_BDC	code.C	/^#define FLC_BDC /;"	d	language:C++	file:
+FLC_BDC	code.c	/^#define FLC_BDC /;"	d	language:C	file:
+FLC_BLA	code.C	/^#define FLC_BLA /;"	d	language:C++	file:
+FLC_BLA	code.c	/^#define FLC_BLA /;"	d	language:C	file:
+FOUR_PI	stdinc.H	/^#define   FOUR_PI /;"	d	language:C++
+FOUR_PI	stdinc.h	/^#define   FOUR_PI /;"	d	language:C++
+FRA_BDA	code.C	/^#define FRA_BDA /;"	d	language:C++	file:
+FRA_BDA	code.c	/^#define FRA_BDA /;"	d	language:C	file:
+FRA_BRC	code.C	/^#define FRA_BRC /;"	d	language:C++	file:
+FRA_BRC	code.c	/^#define FRA_BRC /;"	d	language:C	file:
+FRC_BRA	code.C	/^#define FRC_BRA /;"	d	language:C++	file:
+FRC_BRA	code.c	/^#define FRC_BRA /;"	d	language:C	file:
+FRC_BUC	code.C	/^#define FRC_BUC /;"	d	language:C++	file:
+FRC_BUC	code.c	/^#define FRC_BUC /;"	d	language:C	file:
+FRTHRD_PI	stdinc.H	/^#define   FRTHRD_PI /;"	d	language:C++
+FRTHRD_PI	stdinc.h	/^#define   FRTHRD_PI /;"	d	language:C++
+FUA_BRA	code.C	/^#define FUA_BRA /;"	d	language:C++	file:
+FUA_BRA	code.c	/^#define FUA_BRA /;"	d	language:C	file:
+FUA_BUC	code.C	/^#define FUA_BUC /;"	d	language:C++	file:
+FUA_BUC	code.c	/^#define FUA_BUC /;"	d	language:C	file:
+FUC_BLC	code.C	/^#define FUC_BLC /;"	d	language:C++	file:
+FUC_BLC	code.c	/^#define FUC_BLC /;"	d	language:C	file:
+FUC_BUA	code.C	/^#define FUC_BUA /;"	d	language:C++	file:
+FUC_BUA	code.c	/^#define FUC_BUA /;"	d	language:C	file:
+G_root	code.H	/^    cellptr G_root;    \/* root of the whole tree                  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:cellptr
+G_root	code.h	/^    cellptr G_root;    \/* root of the whole tree                  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:cellptr
+Global	code.H	/^global struct GlobalMemory *Global;$/;"	v	language:C++	typeref:struct:GlobalMemory *
+Global	code.h	/^global struct GlobalMemory *Global;$/;"	v	language:C++	typeref:struct:GlobalMemory *
+GlobalMemory	code.H	/^struct GlobalMemory  {	\/* all this info is for the whole system *\/$/;"	s	language:C++
+GlobalMemory	code.h	/^struct GlobalMemory  {	\/* all this info is for the whole system *\/$/;"	s	language:C++
+HALF_PI	stdinc.H	/^#define   HALF_PI /;"	d	language:C++
+HALF_PI	stdinc.h	/^#define   HALF_PI /;"	d	language:C++
+HZ	util.C	/^#define HZ /;"	d	language:C++	file:
+HZ	util.c	/^#define HZ /;"	d	language:C	file:
+Help	code.C	/^void Help()$/;"	f	language:C++	typeref:typename:void
+Help	code.c	/^void Help()$/;"	f	language:C	typeref:typename:void
+Housekeep	code.C	/^void Housekeep(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+Housekeep	code.c	/^void Housekeep(long ProcessId)$/;"	f	language:C	typeref:typename:void
+IMAX	defs.H	/^#define IMAX /;"	d	language:C++
+IMAX	defs.h	/^#define IMAX /;"	d	language:C++
+INCADDV	vectmath.H	/^#define INCADDV(/;"	d	language:C++
+INCADDV	vectmath.h	/^#define INCADDV(/;"	d	language:C++
+INCDIVVS	vectmath.H	/^#define INCDIVVS(/;"	d	language:C++
+INCDIVVS	vectmath.h	/^#define INCDIVVS(/;"	d	language:C++
+INCMULVS	vectmath.H	/^#define INCMULVS(/;"	d	language:C++
+INCMULVS	vectmath.h	/^#define INCMULVS(/;"	d	language:C++
+INCSUBV	vectmath.H	/^#define INCSUBV(/;"	d	language:C++
+INCSUBV	vectmath.h	/^#define INCSUBV(/;"	d	language:C++
+InitCell	load.C	/^cellptr InitCell(cellptr parent, long ProcessId)$/;"	f	language:C++	typeref:typename:cellptr
+InitCell	load.c	/^cellptr InitCell(cellptr parent, long ProcessId)$/;"	f	language:C	typeref:typename:cellptr
+InitLeaf	load.C	/^leafptr InitLeaf(cellptr parent, long ProcessId)$/;"	f	language:C++	typeref:typename:leafptr
+InitLeaf	load.c	/^leafptr InitLeaf(cellptr parent, long ProcessId)$/;"	f	language:C	typeref:typename:leafptr
+LEAF	defs.H	/^#define LEAF /;"	d	language:C++
+LEAF	defs.h	/^#define LEAF /;"	d	language:C++
+Level	defs.H	/^#define Level(/;"	d	language:C++
+Level	defs.h	/^#define Level(/;"	d	language:C++
+Local	code.H	/^global struct local_memory Local[MAX_PROC];$/;"	v	language:C++	typeref:struct:local_memory[]
+Local	code.h	/^global struct local_memory Local[MAX_PROC];$/;"	v	language:C++	typeref:struct:local_memory[]
+Log_base_2	code.C	/^long Log_base_2(long number)$/;"	f	language:C++	typeref:typename:long
+Log_base_2	code.c	/^long Log_base_2(long number)$/;"	f	language:C	typeref:typename:long
+MASK	util.C	/^#define MASK /;"	d	language:C++	file:
+MASK	util.c	/^#define MASK /;"	d	language:C	file:
+MAXLEVEL	defs.H	/^#define MAXLEVEL /;"	d	language:C++
+MAXLEVEL	defs.h	/^#define MAXLEVEL /;"	d	language:C++
+MAXLOCK	defs.H	/^#define MAXLOCK /;"	d	language:C++
+MAXLOCK	defs.h	/^#define MAXLOCK /;"	d	language:C++
+MAX_BODIES_PER_LEAF	defs.H	/^#define MAX_BODIES_PER_LEAF /;"	d	language:C++
+MAX_BODIES_PER_LEAF	defs.h	/^#define MAX_BODIES_PER_LEAF /;"	d	language:C++
+MAX_PROC	defs.H	/^#define MAX_PROC /;"	d	language:C++
+MAX_PROC	defs.h	/^#define MAX_PROC /;"	d	language:C++
+MFRAC	code.C	/^#define MFRAC /;"	d	language:C++	file:
+MFRAC	code.c	/^#define MFRAC /;"	d	language:C	file:
+MULM	vectmath.H	/^#define MULM(/;"	d	language:C++
+MULM	vectmath.h	/^#define MULM(/;"	d	language:C++
+MULMS	vectmath.H	/^#define MULMS(/;"	d	language:C++
+MULMS	vectmath.h	/^#define MULMS(/;"	d	language:C++
+MULMV	vectmath.H	/^#define MULMV(/;"	d	language:C++
+MULMV	vectmath.h	/^#define MULMV(/;"	d	language:C++
+MULT	util.C	/^#define MULT /;"	d	language:C++	file:
+MULT	util.c	/^#define MULT /;"	d	language:C	file:
+MULVS	vectmath.H	/^#define MULVS(/;"	d	language:C++
+MULVS	vectmath.h	/^#define MULVS(/;"	d	language:C++
+Mass	defs.H	/^#define Mass(/;"	d	language:C++
+Mass	defs.h	/^#define Mass(/;"	d	language:C++
+NDIM	vectmath.H	/^#define NDIM /;"	d	language:C++
+NDIM	vectmath.h	/^#define NDIM /;"	d	language:C++
+NPROC	code.H	/^global long NPROC;		\/* Number of Processors *\/$/;"	v	language:C++	typeref:typename:global long
+NPROC	code.h	/^global long NPROC;		\/* Number of Processors *\/$/;"	v	language:C++	typeref:typename:global long
+NSUB	defs.H	/^#define NSUB /;"	d	language:C++
+NSUB	defs.h	/^#define NSUB /;"	d	language:C++
+NUM_DIRECTIONS	code.C	/^#define NUM_DIRECTIONS /;"	d	language:C++	file:
+NUM_DIRECTIONS	code.c	/^#define NUM_DIRECTIONS /;"	d	language:C	file:
+OBJS	Makefile	/^OBJS = code.o code_io.o load.o grav.o getparam.o util.o$/;"	m	language:Make
+OUTVP	vectmath.H	/^#define OUTVP(/;"	d	language:C++
+OUTVP	vectmath.h	/^#define OUTVP(/;"	d	language:C++
+PAD_SIZE	code.H	/^#define PAD_SIZE /;"	d	language:C++
+PAD_SIZE	code.h	/^#define PAD_SIZE /;"	d	language:C++
+PAGE_SIZE	defs.H	/^#define PAGE_SIZE /;"	d	language:C++
+PAGE_SIZE	defs.h	/^#define PAGE_SIZE /;"	d	language:C++
+PI	stdinc.H	/^#define   PI /;"	d	language:C++
+PI	stdinc.h	/^#define   PI /;"	d	language:C++
+PRHV	vectmath.H	/^#define PRHV(/;"	d	language:C++
+PRHV	vectmath.h	/^#define PRHV(/;"	d	language:C++
+PRIV	vectmath.H	/^#define PRIV(/;"	d	language:C++
+PRIV	vectmath.h	/^#define PRIV(/;"	d	language:C++
+PROV	vectmath.H	/^#define PROV(/;"	d	language:C++
+PROV	vectmath.h	/^#define PROV(/;"	d	language:C++
+PRTV	vectmath.H	/^#define PRTV(/;"	d	language:C++
+PRTV	vectmath.h	/^#define PRTV(/;"	d	language:C++
+Parent	defs.H	/^#define Parent(/;"	d	language:C++
+Parent	defs.h	/^#define Parent(/;"	d	language:C++
+Phi	defs.H	/^#define Phi(/;"	d	language:C++
+Phi	defs.h	/^#define Phi(/;"	d	language:C++
+Pos	defs.H	/^#define Pos(/;"	d	language:C++
+Pos	defs.h	/^#define Pos(/;"	d	language:C++
+Quad	defs.H	/^#define Quad(/;"	d	language:C++
+Quad	defs.h	/^#define Quad(/;"	d	language:C++
+Root_Coords	code.H	/^   long Root_Coords[NDIM];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+Root_Coords	code.h	/^   long Root_Coords[NDIM];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+SETM	vectmath.H	/^#define SETM(/;"	d	language:C++
+SETM	vectmath.h	/^#define SETM(/;"	d	language:C++
+SETMI	vectmath.H	/^#define SETMI(/;"	d	language:C++
+SETMI	vectmath.h	/^#define SETMI(/;"	d	language:C++
+SETMS	vectmath.H	/^#define SETMS(/;"	d	language:C++
+SETMS	vectmath.h	/^#define SETMS(/;"	d	language:C++
+SETV	vectmath.H	/^#define SETV(/;"	d	language:C++
+SETV	vectmath.h	/^#define SETV(/;"	d	language:C++
+SETVS	vectmath.H	/^#define SETVS(/;"	d	language:C++
+SETVS	vectmath.h	/^#define SETVS(/;"	d	language:C++
+SUBM	vectmath.H	/^#define SUBM(/;"	d	language:C++
+SUBM	vectmath.h	/^#define SUBM(/;"	d	language:C++
+SUBV	vectmath.H	/^#define SUBV(/;"	d	language:C++
+SUBV	vectmath.h	/^#define SUBV(/;"	d	language:C++
+SlaveStart	code.C	/^void SlaveStart()$/;"	f	language:C++	typeref:typename:void
+SlaveStart	code.c	/^void SlaveStart()$/;"	f	language:C	typeref:typename:void
+SubdivideLeaf	load.C	/^cellptr SubdivideLeaf(leafptr le, cellptr parent, long l, long ProcessId)$/;"	f	language:C++	typeref:typename:cellptr
+SubdivideLeaf	load.c	/^cellptr SubdivideLeaf(leafptr le, cellptr parent, long l, long ProcessId)$/;"	f	language:C	typeref:typename:cellptr
+Subp	defs.H	/^#define Subp(/;"	d	language:C++
+Subp	defs.h	/^#define Subp(/;"	d	language:C++
+TARGET	Makefile	/^TARGET = BARNES$/;"	m	language:Make
+TRACEM	vectmath.H	/^#define TRACEM(/;"	d	language:C++
+TRACEM	vectmath.h	/^#define TRACEM(/;"	d	language:C++
+TRANM	vectmath.H	/^#define TRANM(/;"	d	language:C++
+TRANM	vectmath.h	/^#define TRANM(/;"	d	language:C++
+TRUE	stdinc.H	/^#define TRUE /;"	d	language:C++
+TRUE	stdinc.h	/^#define TRUE /;"	d	language:C++
+TWOTO31	util.C	/^#define TWOTO31 /;"	d	language:C++	file:
+TWOTO31	util.c	/^#define TWOTO31 /;"	d	language:C	file:
+TWO_PI	stdinc.H	/^#define   TWO_PI /;"	d	language:C++
+TWO_PI	stdinc.h	/^#define   TWO_PI /;"	d	language:C++
+Type	defs.H	/^#define Type(/;"	d	language:C++
+Type	defs.h	/^#define Type(/;"	d	language:C++
+UNITV	vectmath.H	/^#define UNITV(/;"	d	language:C++
+UNITV	vectmath.h	/^#define UNITV(/;"	d	language:C++
+Vel	defs.H	/^#define Vel(/;"	d	language:C++
+Vel	defs.h	/^#define Vel(/;"	d	language:C++
+_CODE_H_	code.H	/^#define _CODE_H_$/;"	d	language:C++
+_CODE_H_	code.h	/^#define _CODE_H_$/;"	d	language:C++
+_CODE_IO_H_	code_io.H	/^#define _CODE_IO_H_$/;"	d	language:C++
+_CODE_IO_H_	code_io.h	/^#define _CODE_IO_H_$/;"	d	language:C++
+_DEFS_H_	defs.H	/^#define _DEFS_H_$/;"	d	language:C++
+_DEFS_H_	defs.h	/^#define _DEFS_H_$/;"	d	language:C++
+_GETPARAM_H_	getparam.H	/^#define _GETPARAM_H_$/;"	d	language:C++
+_GETPARAM_H_	getparam.h	/^#define _GETPARAM_H_$/;"	d	language:C++
+_GRAV_H_	grav.H	/^#define _GRAV_H_$/;"	d	language:C++
+_GRAV_H_	grav.h	/^#define _GRAV_H_$/;"	d	language:C++
+_LOAD_H_	load.H	/^#define _LOAD_H_$/;"	d	language:C++
+_LOAD_H_	load.h	/^#define _LOAD_H_$/;"	d	language:C++
+_STDINC_H_	stdinc.H	/^#define _STDINC_H_$/;"	d	language:C++
+_STDINC_H_	stdinc.h	/^#define _STDINC_H_$/;"	d	language:C++
+_UTIL_H_	util.H	/^#define _UTIL_H_$/;"	d	language:C++
+_UTIL_H_	util.h	/^#define _UTIL_H_$/;"	d	language:C++
+_VECMATH_H_	vectmath.H	/^#define _VECMATH_H_$/;"	d	language:C++
+_VECMATH_H_	vectmath.h	/^#define _VECMATH_H_$/;"	d	language:C++
+_body	defs.H	/^typedef struct _body {$/;"	s	language:C++
+_body	defs.h	/^typedef struct _body {$/;"	s	language:C++
+_cell	defs.H	/^typedef struct _cell {$/;"	s	language:C++
+_cell	defs.h	/^typedef struct _cell {$/;"	s	language:C++
+_leaf	defs.H	/^typedef struct _leaf {$/;"	s	language:C++
+_leaf	defs.h	/^typedef struct _leaf {$/;"	s	language:C++
+_node	defs.H	/^typedef struct _node {$/;"	s	language:C++
+_node	defs.h	/^typedef struct _node {$/;"	s	language:C++
+acc	defs.H	/^   vector acc;                 \/* acceleration of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+acc	defs.h	/^   vector acc;                 \/* acceleration of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+acc0	code.H	/^   vector acc0;         \/* computed acceleration at pos0 *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+acc0	code.h	/^   vector acc0;         \/* computed acceleration at pos0 *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+amvec	code.H	/^    vector amvec;      \/* angular momentum vector                 *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+amvec	code.h	/^    vector amvec;      \/* angular momentum vector                 *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+body	defs.H	/^} body;$/;"	t	language:C++	typeref:struct:_body
+body	defs.h	/^} body;$/;"	t	language:C++	typeref:struct:_body
+bodyp	defs.H	/^   bodyptr bodyp[MAX_BODIES_PER_LEAF];         \/* bodies of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:bodyptr[]
+bodyp	defs.h	/^   bodyptr bodyp[MAX_BODIES_PER_LEAF];         \/* bodies of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:bodyptr[]
+bodyptr	defs.H	/^typedef struct _body* bodyptr;$/;"	t	language:C++	typeref:struct:_body *
+bodyptr	defs.h	/^typedef struct _body* bodyptr;$/;"	t	language:C++	typeref:struct:_body *
+bodytab	code.H	/^global bodyptr bodytab; 	\/* array size is exactly nbody bodies *\/$/;"	v	language:C++	typeref:typename:global bodyptr
+bodytab	code.h	/^global bodyptr bodytab; 	\/* array size is exactly nbody bodies *\/$/;"	v	language:C++	typeref:typename:global bodyptr
+byte	stdinc.H	/^typedef char byte;$/;"	t	language:C++	typeref:typename:char
+byte	stdinc.h	/^typedef char byte;$/;"	t	language:C++	typeref:typename:char
+cell	defs.H	/^} cell;$/;"	t	language:C++	typeref:struct:_cell
+cell	defs.h	/^} cell;$/;"	t	language:C++	typeref:struct:_cell
+cellptr	defs.H	/^typedef struct _cell* cellptr;$/;"	t	language:C++	typeref:struct:_cell *
+cellptr	defs.h	/^typedef struct _cell* cellptr;$/;"	t	language:C++	typeref:struct:_cell *
+child_num	defs.H	/^   long child_num;              \/* Index [0..8] that this node should be put *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+child_num	defs.H	/^   long child_num;              \/* Index [0..8] that this node should be put *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+child_num	defs.H	/^   long child_num;              \/* Index that this node should be put *\/$/;"	m	language:C++	struct:_body	typeref:typename:long
+child_num	defs.H	/^   long child_num;              \/* Index that this node should be put$/;"	m	language:C++	struct:_node	typeref:typename:long
+child_num	defs.h	/^   long child_num;              \/* Index [0..8] that this node should be put *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+child_num	defs.h	/^   long child_num;              \/* Index [0..8] that this node should be put *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+child_num	defs.h	/^   long child_num;              \/* Index that this node should be put *\/$/;"	m	language:C++	struct:_body	typeref:typename:long
+child_num	defs.h	/^   long child_num;              \/* Index that this node should be put$/;"	m	language:C++	struct:_node	typeref:typename:long
+cmphase	code.H	/^    vector cmphase[2]; \/* center of mass coordinates and velocity *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector[2]
+cmphase	code.h	/^    vector cmphase[2]; \/* center of mass coordinates and velocity *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector[2]
+code.o	Makefile	/^code.o: code.C stdinc.h$/;"	t	language:Make
+code_io.o	Makefile	/^code_io.o: code_io.C stdinc.h$/;"	t	language:Make
+computeend	code.H	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:BARDEC
+computeend	code.h	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+computestart	code.H	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:BARDEC
+computestart	code.h	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+cost	defs.H	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_body	typeref:typename:long
+cost	defs.H	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+cost	defs.H	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+cost	defs.H	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_node	typeref:typename:long
+cost	defs.h	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_body	typeref:typename:long
+cost	defs.h	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+cost	defs.h	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+cost	defs.h	/^   long cost;                   \/* number of interactions computed *\/$/;"	m	language:C++	struct:_node	typeref:typename:long
+cputime	util.C	/^double cputime()$/;"	f	language:C++	typeref:typename:double
+cputime	util.c	/^double cputime()$/;"	f	language:C	typeref:typename:double
+createend	code.H	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:BARDEC
+createend	code.h	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+createstart	code.h	/^    unsigned long createstart,createend,computestart,computeend;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+ctab	code.H	/^   cellptr ctab;	\/* array of cells used for the tree. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:cellptr
+ctab	code.h	/^   cellptr ctab;	\/* array of cells used for the tree. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:cellptr
+current_id	code.H	/^    long current_id;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+current_id	code.h	/^    long current_id;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+defaults	getparam.C	/^local string *defaults = NULL;        \/* vector of "name=value" strings *\/$/;"	v	language:C++	typeref:typename:EXTERN_ENV local string *
+defaults	getparam.c	/^local string *defaults = NULL;        \/* vector of "name=value" strings *\/$/;"	v	language:C	typeref:typename:local string *
+defv	code.C	/^string defv[] = {                 \/* DEFAULT PARAMETER VALUES              *\/$/;"	v	language:C++	typeref:typename:MAIN_ENV string[]
+defv	code.c	/^string defv[] = {                 \/* DEFAULT PARAMETER VALUES              *\/$/;"	v	language:C	typeref:typename:string[]
+diagnostics	code_io.C	/^void diagnostics(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+diagnostics	code_io.c	/^void diagnostics(long ProcessId)$/;"	f	language:C	typeref:typename:void
+done	defs.H	/^   volatile long done;          \/* flag to tell when the c.of.m is ready *\/$/;"	m	language:C++	struct:_cell	typeref:typename:volatile long
+done	defs.H	/^   volatile long done;          \/* flag to tell when the c.of.m is ready *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:volatile long
+done	defs.h	/^   volatile long done;          \/* flag to tell when the c.of.m is ready *\/$/;"	m	language:C++	struct:_cell	typeref:typename:volatile long
+done	defs.h	/^   volatile long done;          \/* flag to tell when the c.of.m is ready *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:volatile long
+dr	code.H	/^   vector dr;  		\/* data to be shared *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+dr	code.h	/^   vector dr;  		\/* data to be shared *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+drsq	code.H	/^   real drsq;      	\/* between gravsub and subdivp *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+drsq	code.h	/^   real drsq;      	\/* between gravsub and subdivp *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+dthf	code.H	/^global real dthf; 		\/* half time step *\/$/;"	v	language:C++	typeref:typename:global real
+dthf	code.h	/^global real dthf; 		\/* half time step *\/$/;"	v	language:C++	typeref:typename:global real
+dtime	code.H	/^global real dtime; 		\/* timestep for leapfrog integrator *\/$/;"	v	language:C++	typeref:typename:global real
+dtime	code.h	/^global real dtime; 		\/* timestep for leapfrog integrator *\/$/;"	v	language:C++	typeref:typename:global real
+dtout	code.H	/^global real dtout; 		\/* time between data outputs *\/$/;"	v	language:C++	typeref:typename:global real
+dtout	code.h	/^global real dtout; 		\/* time between data outputs *\/$/;"	v	language:C++	typeref:typename:global real
+eps	code.H	/^global real eps; 		\/* potential softening parameter *\/$/;"	v	language:C++	typeref:typename:global real
+eps	code.h	/^global real eps; 		\/* potential softening parameter *\/$/;"	v	language:C++	typeref:typename:global real
+epssq	code.H	/^global real epssq; 		\/* square of previous *\/$/;"	v	language:C++	typeref:typename:global real
+epssq	code.h	/^global real epssq; 		\/* square of previous *\/$/;"	v	language:C++	typeref:typename:global real
+error	stdinc.H	/^#define error(/;"	d	language:C++
+error	stdinc.h	/^#define error(/;"	d	language:C++
+etot	code.H	/^    real etot[3];      \/* binding, kinetic, potential energy      *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real[3]
+etot	code.h	/^    real etot[3];      \/* binding, kinetic, potential energy      *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real[3]
+extrvalue	getparam.C	/^string extrvalue(string arg)$/;"	f	language:C++	typeref:typename:string
+extrvalue	getparam.c	/^string extrvalue(string arg)$/;"	f	language:C	typeref:typename:string
+fcells	code.H	/^global real fcells; 		\/* ratio of cells\/leaves allocated *\/$/;"	v	language:C++	typeref:typename:global real
+fcells	code.h	/^global real fcells; 		\/* ratio of cells\/leaves allocated *\/$/;"	v	language:C++	typeref:typename:global real
+find_my_bodies	code.C	/^void find_my_bodies(nodeptr mycell, long work, long direction, long ProcessId)$/;"	f	language:C++	typeref:typename:void
+find_my_bodies	code.c	/^void find_my_bodies(nodeptr mycell, long work, long direction, long ProcessId)$/;"	f	language:C	typeref:typename:void
+find_my_initial_bodies	code.C	/^void find_my_initial_bodies(bodyptr btab, long nbody, long ProcessId)$/;"	f	language:C++	typeref:typename:void
+find_my_initial_bodies	code.c	/^void find_my_initial_bodies(bodyptr btab, long nbody, long ProcessId)$/;"	f	language:C	typeref:typename:void
+fleaves	code.H	/^global real fleaves; 		\/* ratio of leaves\/bodies allocated *\/$/;"	v	language:C++	typeref:typename:global real
+fleaves	code.h	/^global real fleaves; 		\/* ratio of leaves\/bodies allocated *\/$/;"	v	language:C++	typeref:typename:global real
+forcecalcend	code.H	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+forcecalcend	code.h	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+forcecalcstart	code.H	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+forcecalcstart	code.h	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+forcecalctime	code.H	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+forcecalctime	code.h	/^    unsigned long forcecalcstart, forcecalcend, forcecalctime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+getbparam	getparam.C	/^bool getbparam(string name)$/;"	f	language:C++	typeref:typename:bool
+getbparam	getparam.c	/^bool getbparam(string name)$/;"	f	language:C	typeref:typename:bool
+getdparam	getparam.C	/^double getdparam(string name)$/;"	f	language:C++	typeref:typename:double
+getdparam	getparam.c	/^double getdparam(string name)$/;"	f	language:C	typeref:typename:double
+getiparam	getparam.C	/^long getiparam(string name)$/;"	f	language:C++	typeref:typename:long
+getiparam	getparam.c	/^long getiparam(string name)$/;"	f	language:C	typeref:typename:long
+getlparam	getparam.C	/^long getlparam(string name)$/;"	f	language:C++	typeref:typename:long
+getlparam	getparam.c	/^long getlparam(string name)$/;"	f	language:C	typeref:typename:long
+getparam	getparam.C	/^string getparam(string name)$/;"	f	language:C++	typeref:typename:string
+getparam	getparam.c	/^string getparam(string name)$/;"	f	language:C	typeref:typename:string
+getparam.o	Makefile	/^getparam.o: getparam.C stdinc.h$/;"	t	language:Make
+global	code.C	/^#define global /;"	d	language:C++	file:
+global	code.c	/^#define global /;"	d	language:C	file:
+global	code_io.C	/^#define global /;"	d	language:C++	file:
+global	code_io.c	/^#define global /;"	d	language:C	file:
+global	getparam.C	/^#define global /;"	d	language:C++	file:
+global	getparam.c	/^#define global /;"	d	language:C	file:
+global	grav.C	/^#define global /;"	d	language:C++	file:
+global	grav.c	/^#define global /;"	d	language:C	file:
+global	load.C	/^#define global /;"	d	language:C++	file:
+global	load.c	/^#define global /;"	d	language:C	file:
+global	util.C	/^#define global /;"	d	language:C++	file:
+global	util.c	/^#define global /;"	d	language:C	file:
+grav.o	Makefile	/^grav.o: grav.C stdinc.h$/;"	t	language:Make
+gravsub	grav.C	/^void gravsub(register nodeptr p, long ProcessId)$/;"	f	language:C++	typeref:typename:void
+gravsub	grav.c	/^void gravsub(register nodeptr p, long ProcessId)$/;"	f	language:C	typeref:typename:void
+hackcofm	load.C	/^void hackcofm(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+hackcofm	load.c	/^void hackcofm(long ProcessId)$/;"	f	language:C	typeref:typename:void
+hackgrav	grav.C	/^void hackgrav(bodyptr p, long ProcessId)$/;"	f	language:C++	typeref:typename:EXTERN_ENV void
+hackgrav	grav.c	/^void hackgrav(bodyptr p, long ProcessId)$/;"	f	language:C	typeref:typename:void
+hackwalk	grav.C	/^void hackwalk(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+hackwalk	grav.c	/^void hackwalk(long ProcessId)$/;"	f	language:C	typeref:typename:void
+headline	code.H	/^global string headline; 	\/* message describing calculation *\/$/;"	v	language:C++	typeref:typename:global string
+headline	code.h	/^global string headline; 	\/* message describing calculation *\/$/;"	v	language:C++	typeref:typename:global string
+in_int	code_io.C	/^void in_int(stream str, long *iptr)$/;"	f	language:C++	typeref:typename:void
+in_int	code_io.c	/^void in_int(stream str, long *iptr)$/;"	f	language:C	typeref:typename:void
+in_real	code_io.C	/^void in_real(stream str, real *rptr)$/;"	f	language:C++	typeref:typename:void
+in_real	code_io.c	/^void in_real(stream str, real *rptr)$/;"	f	language:C	typeref:typename:void
+in_vector	code_io.C	/^void in_vector(stream str, vector vec)$/;"	f	language:C++	typeref:typename:void
+in_vector	code_io.c	/^void in_vector(stream str, vector vec)$/;"	f	language:C	typeref:typename:void
+infile	code.H	/^global string infile; 		\/* file name for snapshot input *\/$/;"	v	language:C++	typeref:typename:global string
+infile	code.h	/^global string infile; 		\/* file name for snapshot input *\/$/;"	v	language:C++	typeref:typename:global string
+init_root	code.C	/^void init_root()$/;"	f	language:C++	typeref:typename:void
+init_root	code.c	/^void init_root()$/;"	f	language:C	typeref:typename:void
+initoutput	code_io.C	/^void initoutput()$/;"	f	language:C++	typeref:typename:void
+initoutput	code_io.c	/^void initoutput()$/;"	f	language:C	typeref:typename:void
+initparam	getparam.C	/^void initparam(string *defv)$/;"	f	language:C++	typeref:typename:void
+initparam	getparam.c	/^void initparam(string *defv)$/;"	f	language:C	typeref:typename:void
+inputdata	code_io.C	/^void inputdata ()$/;"	f	language:C++	typeref:typename:EXTERN_ENV void
+inputdata	code_io.c	/^void inputdata ()$/;"	f	language:C	typeref:typename:void
+intcoord	load.C	/^bool intcoord(long xp[NDIM], vector rp)$/;"	f	language:C++	typeref:typename:bool
+intcoord	load.c	/^bool intcoord(long xp[NDIM], vector rp)$/;"	f	language:C	typeref:typename:bool
+intpow	code.C	/^long intpow(long i, long j)$/;"	f	language:C++	typeref:typename:long
+intpow	code.c	/^long intpow(long i, long j)$/;"	f	language:C	typeref:typename:long
+iproc	stdinc.H	/^typedef long (*iproc)();$/;"	t	language:C++	typeref:typename:long (*)()
+iproc	stdinc.h	/^typedef long (*iproc)();$/;"	t	language:C++	typeref:typename:long (*)()
+k	code.H	/^    volatile long k; \/*for memory allocation in code.C *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:volatile long
+k	code.h	/^    volatile long k; \/*for memory allocation in code.C *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:volatile long
+keten	code.H	/^    matrix keten;      \/* kinetic energy tensor                   *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:matrix
+keten	code.h	/^    matrix keten;      \/* kinetic energy tensor                   *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:matrix
+lastrand	util.C	/^local long lastrand;   \/* the last random number *\/$/;"	v	language:C++	typeref:typename:local long
+lastrand	util.c	/^local long lastrand;   \/* the last random number *\/$/;"	v	language:C	typeref:typename:local long
+leaf	defs.H	/^} leaf;$/;"	t	language:C++	typeref:struct:_leaf
+leaf	defs.h	/^} leaf;$/;"	t	language:C++	typeref:struct:_leaf
+leafptr	defs.H	/^typedef struct _leaf* leafptr;$/;"	t	language:C++	typeref:struct:_leaf *
+leafptr	defs.h	/^typedef struct _leaf* leafptr;$/;"	t	language:C++	typeref:struct:_leaf *
+level	defs.H	/^   long level;$/;"	m	language:C++	struct:_body	typeref:typename:long
+level	defs.H	/^   long level;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+level	defs.H	/^   long level;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+level	defs.H	/^   long level;$/;"	m	language:C++	struct:_node	typeref:typename:long
+level	defs.h	/^   long level;$/;"	m	language:C++	struct:_body	typeref:typename:long
+level	defs.h	/^   long level;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+level	defs.h	/^   long level;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+level	defs.h	/^   long level;$/;"	m	language:C++	struct:_node	typeref:typename:long
+load.o	Makefile	/^load.o: load.C stdinc.h$/;"	t	language:Make
+loadtree	load.C	/^nodeptr loadtree(bodyptr p, cellptr root, long ProcessId)$/;"	f	language:C++	typeref:typename:nodeptr
+loadtree	load.c	/^nodeptr loadtree(bodyptr p, cellptr root, long ProcessId)$/;"	f	language:C	typeref:typename:nodeptr
+local	stdinc.H	/^#define local /;"	d	language:C++
+local	stdinc.h	/^#define local /;"	d	language:C++
+local_memory	code.H	/^struct local_memory {$/;"	s	language:C++
+local_memory	code.h	/^struct local_memory {$/;"	s	language:C++
+ltab	code.H	/^   leafptr ltab;	\/* array of cells used for the tree. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:leafptr
+ltab	code.h	/^   leafptr ltab;	\/* array of cells used for the tree. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:leafptr
+main	code.C	/^int main (int argc, string argv[])$/;"	f	language:C++	typeref:typename:int
+main	code.c	/^int main (int argc, string argv[])$/;"	f	language:C	typeref:typename:int
+makecell	load.C	/^cellptr makecell(long ProcessId)$/;"	f	language:C++	typeref:typename:cellptr
+makecell	load.c	/^cellptr makecell(long ProcessId)$/;"	f	language:C	typeref:typename:cellptr
+makeleaf	load.C	/^leafptr makeleaf(long ProcessId)$/;"	f	language:C++	typeref:typename:leafptr
+makeleaf	load.c	/^leafptr makeleaf(long ProcessId)$/;"	f	language:C	typeref:typename:leafptr
+maketree	load.C	/^void maketree(long ProcessId)$/;"	f	language:C++	typeref:typename:EXTERN_ENV void
+maketree	load.c	/^void maketree(long ProcessId)$/;"	f	language:C	typeref:typename:void
+mass	defs.H	/^   real mass;                  \/* mass of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:real
+mass	defs.H	/^   real mass;                  \/* total mass of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:real
+mass	defs.H	/^   real mass;                  \/* total mass of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:real
+mass	defs.H	/^   real mass;                  \/* total mass of node *\/$/;"	m	language:C++	struct:_node	typeref:typename:real
+mass	defs.h	/^   real mass;                  \/* mass of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:real
+mass	defs.h	/^   real mass;                  \/* total mass of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:real
+mass	defs.h	/^   real mass;                  \/* total mass of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:real
+mass	defs.h	/^   real mass;                  \/* total mass of node *\/$/;"	m	language:C++	struct:_node	typeref:typename:real
+matchname	getparam.C	/^bool matchname(string bind, string name)$/;"	f	language:C++	typeref:typename:bool
+matchname	getparam.c	/^bool matchname(string bind, string name)$/;"	f	language:C	typeref:typename:bool
+matrix	vectmath.H	/^typedef real vector[NDIM], matrix[NDIM][NDIM];$/;"	t	language:C++	typeref:typename:real[NDIM][NDIM]
+matrix	vectmath.h	/^typedef real vector[NDIM], matrix[NDIM][NDIM];$/;"	t	language:C++	typeref:typename:real[NDIM][NDIM]
+max	code.H	/^    vector max;        \/* temporary upper right corner of the box *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+max	code.H	/^   vector min, max; 	\/* min and max of coordinates for each Proc. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+max	code.h	/^    vector max;        \/* temporary upper right corner of the box *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+max	code.h	/^   vector min, max; 	\/* min and max of coordinates for each Proc. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+maxcell	code.H	/^global long maxcell;		\/* max number of cells allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxcell	code.h	/^global long maxcell;		\/* max number of cells allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxleaf	code.H	/^global long maxleaf;		\/* max number of leaves allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxleaf	code.h	/^global long maxleaf;		\/* max number of leaves allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxmybody	code.H	/^global long maxmybody;		\/* max no. of bodies allocated per processor *\/$/;"	v	language:C++	typeref:typename:global long
+maxmybody	code.h	/^global long maxmybody;		\/* max no. of bodies allocated per processor *\/$/;"	v	language:C++	typeref:typename:global long
+maxmycell	code.H	/^global long maxmycell;		\/* max num. of cells to be allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxmycell	code.h	/^global long maxmycell;		\/* max num. of cells to be allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxmyleaf	code.H	/^global long maxmyleaf;		\/* max num. of leaves to be allocated *\/$/;"	v	language:C++	typeref:typename:global long
+maxmyleaf	code.h	/^global long maxmyleaf;		\/* max num. of leaves to be allocated *\/$/;"	v	language:C++	typeref:typename:global long
+min	code.H	/^    vector min;        \/* temporary lower-left corner of the box  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+min	code.H	/^   vector min, max; 	\/* min and max of coordinates for each Proc. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+min	code.h	/^    vector min;        \/* temporary lower-left corner of the box  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+min	code.h	/^   vector min, max; 	\/* min and max of coordinates for each Proc. *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+mtot	code.H	/^    real mtot;         \/* total mass of N-body system             *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real
+mtot	code.h	/^    real mtot;         \/* total mass of N-body system             *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real
+myamvec	code.H	/^   vector myamvec;   	\/* angular momentum vector *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+myamvec	code.h	/^   vector myamvec;   	\/* angular momentum vector *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+mybodytab	code.H	/^   bodyptr* mybodytab;	\/* array of bodies allocated \/ processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bodyptr *
+mybodytab	code.h	/^   bodyptr* mybodytab;	\/* array of bodies allocated \/ processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bodyptr *
+mycelltab	code.H	/^   cellptr* mycelltab;	\/* array of cellptrs allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:cellptr *
+mycelltab	code.h	/^   cellptr* mycelltab;	\/* array of cellptrs allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:cellptr *
+mycmphase	code.H	/^   vector mycmphase[2];	\/* center of mass coordinates *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector[2]
+mycmphase	code.h	/^   vector mycmphase[2];	\/* center of mass coordinates *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector[2]
+myetot	code.H	/^   real myetot[3];   	\/* binding, kinetic, potential energy *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real[3]
+myetot	code.h	/^   real myetot[3];   	\/* binding, kinetic, potential energy *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real[3]
+myketen	code.H	/^   matrix myketen;   	\/* kinetic energy tensor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:matrix
+myketen	code.h	/^   matrix myketen;   	\/* kinetic energy tensor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:matrix
+myleaftab	code.H	/^   leafptr* myleaftab; 	\/* array of leafptrs allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:leafptr *
+myleaftab	code.h	/^   leafptr* myleaftab; 	\/* array of leafptrs allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:leafptr *
+mymtot	code.H	/^   real mymtot;      	\/* total mass of N-body system *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+mymtot	code.h	/^   real mymtot;      	\/* total mass of N-body system *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+myn2bcalc	code.H	/^   long myn2bcalc; 	\/* body-body force calculations for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myn2bcalc	code.h	/^   long myn2bcalc; 	\/* body-body force calculations for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myn2bterm	code.H	/^   long myn2bterm; 	\/* count body-body terms for a body *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myn2bterm	code.h	/^   long myn2bterm; 	\/* count body-body terms for a body *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbccalc	code.H	/^   long mynbccalc; 	\/* body-cell force calculations for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbccalc	code.h	/^   long mynbccalc; 	\/* body-cell force calculations for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbcterm	code.H	/^   long mynbcterm; 	\/* count body-cell terms for a body *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbcterm	code.h	/^   long mynbcterm; 	\/* count body-cell terms for a body *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbody	code.H	/^   long mynbody;   	\/* num bodies allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynbody	code.h	/^   long mynbody;   	\/* num bodies allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myncell	code.H	/^   long myncell; 	\/* num cells allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myncell	code.h	/^   long myncell; 	\/* num cells allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynleaf	code.H	/^   long mynleaf; 	\/* number of leaves allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynleaf	code.h	/^   long mynleaf; 	\/* number of leaves allocated to the processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynumcell	code.H	/^   long mynumcell; 	\/* num. of cells used for this proc in ctab *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynumcell	code.h	/^   long mynumcell; 	\/* num. of cells used for this proc in ctab *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynumleaf	code.H	/^   long mynumleaf; 	\/* num. of leaves used for this proc in ctab *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mynumleaf	code.h	/^   long mynumleaf; 	\/* num. of leaves used for this proc in ctab *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+mypeten	code.H	/^   matrix mypeten;   	\/* potential energy tensor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:matrix
+mypeten	code.h	/^   matrix mypeten;   	\/* potential energy tensor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:matrix
+myselfint	code.H	/^   long myselfint; 	\/* count self-interactions for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+myselfint	code.h	/^   long myselfint; 	\/* count self-interactions for each processor *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+n2bcalc	code.H	/^    long n2bcalc;       \/* total number of body\/cell interactions  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+n2bcalc	code.h	/^    long n2bcalc;       \/* total number of body\/cell interactions  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+nbccalc	code.H	/^    long nbccalc;       \/* total number of body\/body interactions  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+nbccalc	code.h	/^    long nbccalc;       \/* total number of body\/body interactions  *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+nbody	code.H	/^global long nbody; 		\/* number of bodies in system *\/$/;"	v	language:C++	typeref:typename:global long
+nbody	code.h	/^global long nbody; 		\/* number of bodies in system *\/$/;"	v	language:C++	typeref:typename:global long
+next	defs.H	/^   struct _cell *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_cell	typeref:struct:_cell *
+next	defs.H	/^   struct _leaf *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_leaf	typeref:struct:_leaf *
+next	defs.h	/^   struct _cell *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_cell	typeref:struct:_cell *
+next	defs.h	/^   struct _leaf *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_leaf	typeref:struct:_leaf *
+node	defs.H	/^} node;$/;"	t	language:C++	typeref:struct:_node
+node	defs.h	/^} node;$/;"	t	language:C++	typeref:struct:_node
+nodeptr	defs.H	/^typedef node* nodeptr;$/;"	t	language:C++	typeref:typename:node *
+nodeptr	defs.h	/^typedef node* nodeptr;$/;"	t	language:C++	typeref:typename:node *
+nstep	code.H	/^   long nstep;      	\/* number of integration steps so far *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+nstep	code.h	/^   long nstep;      	\/* number of integration steps so far *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+num_bodies	defs.H	/^   long num_bodies;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+num_bodies	defs.h	/^   long num_bodies;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+out_int	code_io.C	/^void out_int(stream str, long ival)$/;"	f	language:C++	typeref:typename:void
+out_int	code_io.c	/^void out_int(stream str, long ival)$/;"	f	language:C	typeref:typename:void
+out_real	code_io.C	/^void out_real(stream str, real rval)$/;"	f	language:C++	typeref:typename:void
+out_real	code_io.c	/^void out_real(stream str, real rval)$/;"	f	language:C	typeref:typename:void
+out_vector	code_io.C	/^void out_vector(stream str, vector vec)$/;"	f	language:C++	typeref:typename:void
+out_vector	code_io.c	/^void out_vector(stream str, vector vec)$/;"	f	language:C	typeref:typename:void
+outfile	code.H	/^global string outfile; 		\/* file name for snapshot output *\/$/;"	v	language:C++	typeref:typename:global string
+outfile	code.h	/^global string outfile; 		\/* file name for snapshot output *\/$/;"	v	language:C++	typeref:typename:global string
+output	code_io.C	/^void output(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+output	code_io.c	/^void output(long ProcessId)$/;"	f	language:C	typeref:typename:void
+pad_begin	code.H	/^   long pad_begin[PAD_SIZE];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+pad_begin	code.h	/^   long pad_begin[PAD_SIZE];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+pad_end	code.H	/^   long pad_end[PAD_SIZE];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+pad_end	code.h	/^   long pad_end[PAD_SIZE];$/;"	m	language:C++	struct:local_memory	typeref:typename:long[]
+parent	defs.H	/^   cellptr parent;$/;"	m	language:C++	struct:_cell	typeref:typename:cellptr
+parent	defs.H	/^   cellptr parent;$/;"	m	language:C++	struct:_leaf	typeref:typename:cellptr
+parent	defs.H	/^   leafptr parent;$/;"	m	language:C++	struct:_body	typeref:typename:leafptr
+parent	defs.H	/^   struct _node *parent;       \/* ptr to parent of this node in tree *\/$/;"	m	language:C++	struct:_node	typeref:struct:_node *
+parent	defs.h	/^   cellptr parent;$/;"	m	language:C++	struct:_cell	typeref:typename:cellptr
+parent	defs.h	/^   cellptr parent;$/;"	m	language:C++	struct:_leaf	typeref:typename:cellptr
+parent	defs.h	/^   leafptr parent;$/;"	m	language:C++	struct:_body	typeref:typename:leafptr
+parent	defs.h	/^   struct _node *parent;       \/* ptr to parent of this node in tree *\/$/;"	m	language:C++	struct:_node	typeref:struct:_node *
+partitionend	code.H	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+partitionend	code.h	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+partitionstart	code.H	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+partitionstart	code.h	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+partitiontime	code.H	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+partitiontime	code.h	/^    unsigned long partitionstart, partitionend, partitiontime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+permanent	stdinc.H	/^#define permanent /;"	d	language:C++
+permanent	stdinc.h	/^#define permanent /;"	d	language:C++
+peten	code.H	/^    matrix peten;      \/* potential energy tensor                 *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:matrix
+peten	code.h	/^    matrix peten;      \/* potential energy tensor                 *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:matrix
+phi	defs.H	/^   real phi;                   \/* potential at body *\/$/;"	m	language:C++	struct:_body	typeref:typename:real
+phi	defs.h	/^   real phi;                   \/* potential at body *\/$/;"	m	language:C++	struct:_body	typeref:typename:real
+phi0	code.H	/^   real phi0;           \/* computed potential at pos0 *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+phi0	code.h	/^   real phi0;           \/* computed potential at pos0 *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+pickshell	code.C	/^void pickshell(real vec[], real rad)$/;"	f	language:C++	typeref:typename:void
+pickshell	code.c	/^void pickshell(real vec[], real rad)$/;"	f	language:C	typeref:typename:void
+pmem	code.H	/^   nodeptr pmem;	\/* remember particle data *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:nodeptr
+pmem	code.h	/^   nodeptr pmem;	\/* remember particle data *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:nodeptr
+pos	defs.H	/^   vector pos;                 \/* cm. position of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:vector
+pos	defs.H	/^   vector pos;                 \/* cm. position of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:vector
+pos	defs.H	/^   vector pos;                 \/* position of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+pos	defs.H	/^   vector pos;                 \/* position of node *\/$/;"	m	language:C++	struct:_node	typeref:typename:vector
+pos	defs.h	/^   vector pos;                 \/* cm. position of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:vector
+pos	defs.h	/^   vector pos;                 \/* cm. position of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:vector
+pos	defs.h	/^   vector pos;                 \/* position of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+pos	defs.h	/^   vector pos;                 \/* position of node *\/$/;"	m	language:C++	struct:_node	typeref:typename:vector
+pos0	code.H	/^   vector pos0;         \/* point at which to evaluate field *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+pos0	code.h	/^   vector pos0;         \/* point at which to evaluate field *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:vector
+prand	util.C	/^double prand()$/;"	f	language:C++	typeref:typename:double
+prand	util.c	/^double prand()$/;"	f	language:C	typeref:typename:double
+pranset	util.C	/^void pranset(long seed)$/;"	f	language:C++	typeref:typename:void
+pranset	util.c	/^void pranset(long seed)$/;"	f	language:C	typeref:typename:void
+prev	defs.H	/^   struct _cell *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_cell	typeref:struct:_cell **
+prev	defs.H	/^   struct _leaf *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_leaf	typeref:struct:_leaf **
+prev	defs.h	/^   struct _cell *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_cell	typeref:struct:_cell **
+prev	defs.h	/^   struct _leaf *next, *prev;    \/* Used in the partition array *\/$/;"	m	language:C++	struct:_leaf	typeref:struct:_leaf **
+printtree	load.C	/^void printtree(nodeptr n)$/;"	f	language:C++	typeref:typename:void
+printtree	load.c	/^void printtree(nodeptr n)$/;"	f	language:C	typeref:typename:void
+proced	stdinc.H	/^typedef void (*proced)();$/;"	t	language:C++	typeref:typename:void (*)()
+proced	stdinc.h	/^typedef void (*proced)();$/;"	t	language:C++	typeref:typename:void (*)()
+processor	defs.H	/^   long processor;		\/* Used by partition code *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+processor	defs.H	/^   long processor;		\/* Used by partition code *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+processor	defs.h	/^   long processor;		\/* Used by partition code *\/$/;"	m	language:C++	struct:_cell	typeref:typename:long
+processor	defs.h	/^   long processor;		\/* Used by partition code *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+pskip	code.H	/^   bodyptr pskip;       \/* body to skip in force evaluation *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bodyptr
+pskip	code.h	/^   bodyptr pskip;       \/* body to skip in force evaluation *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bodyptr
+quad	defs.H	/^   matrix quad;                \/* quad. moment of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:matrix
+quad	defs.H	/^   matrix quad;                \/* quad. moment of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:matrix
+quad	defs.h	/^   matrix quad;                \/* quad. moment of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:matrix
+quad	defs.h	/^   matrix quad;                \/* quad. moment of leaf *\/$/;"	m	language:C++	struct:_leaf	typeref:typename:matrix
+randx	util.C	/^local long randx = 1;$/;"	v	language:C++	typeref:typename:local long
+randx	util.c	/^local long randx = 1;$/;"	v	language:C	typeref:typename:local long
+real	stdinc.H	/^typedef  double  real, *realptr;$/;"	t	language:C++	typeref:typename:double
+real	stdinc.h	/^typedef  double  real, *realptr;$/;"	t	language:C++	typeref:typename:double
+realptr	stdinc.H	/^typedef  double  real, *realptr;$/;"	t	language:C++	typeref:typename:double *
+realptr	stdinc.h	/^typedef  double  real, *realptr;$/;"	t	language:C++	typeref:typename:double *
+rmin	code.H	/^    vector rmin;       \/* lower-left corner of coordinate box     *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+rmin	code.h	/^    vector rmin;       \/* lower-left corner of coordinate box     *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:vector
+rproc	stdinc.H	/^typedef real (*rproc)();$/;"	t	language:C++	typeref:typename:real (*)()
+rproc	stdinc.h	/^typedef real (*rproc)();$/;"	t	language:C++	typeref:typename:real (*)()
+rsize	code.H	/^    real rsize;        \/* side-length of integer coordinate box   *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real
+rsize	code.h	/^    real rsize;        \/* side-length of integer coordinate box   *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:real
+scanbind	getparam.C	/^long scanbind(string bvec[], string name)$/;"	f	language:C++	typeref:typename:long
+scanbind	getparam.c	/^long scanbind(string bvec[], string name)$/;"	f	language:C	typeref:typename:long
+selfint	code.H	/^    long selfint;       \/* number of self interactions             *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+selfint	code.h	/^    long selfint;       \/* number of self interactions             *\/$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:long
+seqnum	defs.H	/^   long seqnum;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+seqnum	defs.H	/^   long seqnum;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+seqnum	defs.h	/^   long seqnum;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+seqnum	defs.h	/^   long seqnum;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+setbound	code.C	/^void setbound()$/;"	f	language:C++	typeref:typename:void
+setbound	code.c	/^void setbound()$/;"	f	language:C	typeref:typename:void
+skipself	code.H	/^   bool skipself; 	\/* true if self-interaction skipped OK *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bool
+skipself	code.h	/^   bool skipself; 	\/* true if self-interaction skipped OK *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:bool
+startrun	code.C	/^void startrun()$/;"	f	language:C++	typeref:typename:void
+startrun	code.c	/^void startrun()$/;"	f	language:C	typeref:typename:void
+stdinc.h	Makefile	/^stdinc.h: code.h defs.h util.h vectmath.h load.h code_io.h grav.h getparam.h stdinc.H $/;"	t	language:Make
+stepsystem	code.C	/^void stepsystem(long ProcessId)$/;"	f	language:C++	typeref:typename:void
+stepsystem	code.c	/^void stepsystem(long ProcessId)$/;"	f	language:C	typeref:typename:void
+stream	stdinc.H	/^typedef FILE *stream;$/;"	t	language:C++	typeref:typename:FILE *
+stream	stdinc.h	/^typedef FILE *stream;$/;"	t	language:C++	typeref:typename:FILE *
+streq	stdinc.H	/^#define streq(/;"	d	language:C++
+streq	stdinc.h	/^#define streq(/;"	d	language:C++
+string	stdinc.H	/^typedef char *string;$/;"	t	language:C++	typeref:typename:char *
+string	stdinc.h	/^typedef char *string;$/;"	t	language:C++	typeref:typename:char *
+subdivp	grav.C	/^bool subdivp(register nodeptr p, real dsq, long ProcessId)$/;"	f	language:C++	typeref:typename:bool
+subdivp	grav.c	/^bool subdivp(register nodeptr p, real dsq, long ProcessId)$/;"	f	language:C	typeref:typename:bool
+subindex	load.C	/^long subindex(long x[NDIM], long l)$/;"	f	language:C++	typeref:typename:long
+subindex	load.c	/^long subindex(long x[NDIM], long l)$/;"	f	language:C	typeref:typename:long
+subp	defs.H	/^   nodeptr subp[NSUB];         \/* descendents of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:nodeptr[]
+subp	defs.h	/^   nodeptr subp[NSUB];         \/* descendents of cell *\/$/;"	m	language:C++	struct:_cell	typeref:typename:nodeptr[]
+tab_init	code.C	/^void tab_init()$/;"	f	language:C++	typeref:typename:void
+tab_init	code.c	/^void tab_init()$/;"	f	language:C	typeref:typename:void
+testdata	code.C	/^void testdata()$/;"	f	language:C++	typeref:typename:void
+testdata	code.c	/^void testdata()$/;"	f	language:C	typeref:typename:void
+tnow	code.H	/^   real tnow;        	\/* current value of simulation time *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+tnow	code.h	/^   real tnow;        	\/* current value of simulation time *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+tol	code.H	/^global real tol; 		\/* accuracy parameter: 0.0 => exact *\/$/;"	v	language:C++	typeref:typename:global real
+tol	code.h	/^global real tol; 		\/* accuracy parameter: 0.0 => exact *\/$/;"	v	language:C++	typeref:typename:global real
+tolsq	code.H	/^global real tolsq; 		\/* square of previous *\/$/;"	v	language:C++	typeref:typename:global real
+tolsq	code.h	/^global real tolsq; 		\/* square of previous *\/$/;"	v	language:C++	typeref:typename:global real
+tout	code.H	/^   real tout;         	\/* time next output is due *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+tout	code.h	/^   real tout;         	\/* time next output is due *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:real
+trackend	code.H	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+trackend	code.h	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+trackstart	code.H	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+trackstart	code.h	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+tracktime	code.H	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+tracktime	code.h	/^    unsigned long trackstart, trackend, tracktime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildend	code.H	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildend	code.h	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildstart	code.H	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildstart	code.h	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildtime	code.H	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+treebuildtime	code.h	/^    unsigned long treebuildstart, treebuildend, treebuildtime;$/;"	m	language:C++	struct:GlobalMemory	typeref:typename:unsigned long
+tstop	code.H	/^global real tstop; 		\/* time to stop calculation *\/$/;"	v	language:C++	typeref:typename:global real
+tstop	code.h	/^global real tstop; 		\/* time to stop calculation *\/$/;"	v	language:C++	typeref:typename:global real
+type	defs.H	/^   long type;                 \/* code for node type: body or cell *\/$/;"	m	language:C++	struct:_node	typeref:typename:long
+type	defs.H	/^   long type;$/;"	m	language:C++	struct:_body	typeref:typename:long
+type	defs.H	/^   long type;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+type	defs.H	/^   long type;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+type	defs.h	/^   long type;                 \/* code for node type: body or cell *\/$/;"	m	language:C++	struct:_node	typeref:typename:long
+type	defs.h	/^   long type;$/;"	m	language:C++	struct:_body	typeref:typename:long
+type	defs.h	/^   long type;$/;"	m	language:C++	struct:_cell	typeref:typename:long
+type	defs.h	/^   long type;$/;"	m	language:C++	struct:_leaf	typeref:typename:long
+util.o	Makefile	/^util.o: util.C stdinc.h$/;"	t	language:Make
+vector	vectmath.H	/^typedef real vector[NDIM], matrix[NDIM][NDIM];$/;"	t	language:C++	typeref:typename:real[NDIM]
+vector	vectmath.h	/^typedef real vector[NDIM], matrix[NDIM][NDIM];$/;"	t	language:C++	typeref:typename:real[NDIM]
+vel	defs.H	/^   vector vel;                 \/* velocity of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+vel	defs.h	/^   vector vel;                 \/* velocity of body *\/$/;"	m	language:C++	struct:_body	typeref:typename:vector
+walksub	grav.C	/^void walksub(nodeptr n, real dsq, long ProcessId)$/;"	f	language:C++	typeref:typename:void
+walksub	grav.c	/^void walksub(nodeptr n, real dsq, long ProcessId)$/;"	f	language:C	typeref:typename:void
+workMax	code.H	/^   long workMin, workMax;\/* interval of cost to be treated by a proc *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+workMax	code.h	/^   long workMin, workMax;\/* interval of cost to be treated by a proc *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+workMin	code.H	/^   long workMin, workMax;\/* interval of cost to be treated by a proc *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+workMin	code.h	/^   long workMin, workMax;\/* interval of cost to be treated by a proc *\/$/;"	m	language:C++	struct:local_memory	typeref:typename:long
+xrand	util.C	/^double xrand(double xl, double xh)$/;"	f	language:C++	typeref:typename:double
+xrand	util.c	/^double xrand(double xl, double xh)$/;"	f	language:C	typeref:typename:double
